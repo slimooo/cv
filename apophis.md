@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Apophis
+layout: post
+title:  "Apophis"
 ---
 
 - XX années d'expérience
