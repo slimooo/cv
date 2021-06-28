@@ -21,7 +21,7 @@ title:  "Apophis"
 ## Certifications
 - ITIL V3
 - Prince2 Practioner
-## Langue
+## Langues
 - Anglais : Très bonne maîtrise, pratique régulière professionnelle
 - Italien : Connaissance
 - Russe : Connaissance 

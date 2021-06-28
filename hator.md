@@ -18,3 +18,5 @@ title: Hator
 - 2018 : MBA Cyber/Computer Foresics and counterterrorism, *Ecole de guerre Economique*
 - 2016 : Master Marketing management, business devlopment and strategy, *HEC Paris*
 - 1998 : Bachelor IT management, *EPF Ecole d'Ingénieurs*
+## Langues
+- Anglais : Courant
