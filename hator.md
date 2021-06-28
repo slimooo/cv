@@ -6,7 +6,6 @@ title: Hator
 - 22 années d'expérience
 - TJM : 650
 ## Expériences
-- MM/20AA - MM/20AA : Poste, *secteur* 
 - 2012 - aujourd'hui : Consultante GDPR, *Cabinet de conseil*
 - 01/2018 - 12/2018 : Expert sécurité et conformité des données, *Cabinet de conseil*
 - 09/2009 - 04/2011 : Consultante en stratégie commerciale, *Pharmaceutique*
